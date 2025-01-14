@@ -1,1 +1,1 @@
-A simple random Overwatch 2 charachter picker
+A random Overwatch 2 character picker
